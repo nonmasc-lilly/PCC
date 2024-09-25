@@ -1,0 +1,3 @@
+main {
+    72 putc 105 putc 32 putc 13 putc 10 putc
+}
